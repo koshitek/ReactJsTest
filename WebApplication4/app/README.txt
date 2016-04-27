@@ -1,0 +1,1 @@
+﻿jspm bundle-sfx --minify src/main dist/bundle.min.js
